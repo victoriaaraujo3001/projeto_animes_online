@@ -1,0 +1,52 @@
+.bg-list {
+    margin-top: 10px;
+    background-color: #302e2d;
+    padding: 0.5em;
+}
+.card-anime-fav {
+    width: 60%;
+    background-color: #302e2a;
+    padding: 10px;
+    margin: 10px auto 10px auto;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.title-card-ep {
+    font-family: Quicksand;
+    color: #c0c0c0;
+    font-size: 12pt;
+    padding-right: 30px;
+}
+
+.title-card {
+    font-family: Quicksand;
+    font-size: 12pt;
+    color: #c0c0c0;
+    margin: 0 auto;
+
+}
+
+.card-anime-fav:hover {
+    transition: 0.2s ease-in;
+    background-color: #555555;
+    font-size: smaller;
+    cursor: pointer;
+}
+.div-img{
+    display: flex;
+    justify-content: center;
+}
+.img-favorites{
+    opacity: 0.5;
+    width: 820px;
+    height: 500px;
+    border-radius: 8px;
+    margin-top: 5px;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+    margin-bottom: -20px;
+}

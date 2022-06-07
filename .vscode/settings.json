@@ -1,0 +1,5 @@
+{
+    "workbench.editor.wrapTabs": false,
+    "debug.console.wordWrap": true,
+    "editor.wrappingStrategy": "simple"
+}

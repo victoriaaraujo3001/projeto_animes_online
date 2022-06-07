@@ -1,0 +1,18 @@
+body {
+  color: white;
+  background-color: #302e2d;
+}
+
+body::-webkit-scrollbar {
+  width: 6px;
+  /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #a18d8d;
+  /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #302e2d;
+}

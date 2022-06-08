@@ -1,4 +1,4 @@
-import { Account } from "../components/AccountUser";
+import { AccountUser } from "../components/AccountUser";
 
 const assistidos = [
     {
@@ -25,6 +25,6 @@ const assistidos = [
   
 export function AccountScreen({list}){
     return(
-        <Account list={assistidos} />
+        <AccountUser list={assistidos} />
     );
 }

@@ -14,7 +14,6 @@ export function NavBar() {
       </Link>
       <div className="content-center">
         <img src={logoAnime} alt="logo anime" />
-        <h6 className="title-page">animes online</h6>
       </div>
     </nav>
   );

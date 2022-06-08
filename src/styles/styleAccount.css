@@ -1,0 +1,61 @@
+.info-user{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+.title-form{
+    font-size: 1.9em;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    color: #a18d8d;
+    text-shadow: 0 0 1px #771100;
+    font-weight: 900;
+    font-family: Quicksand, cursive;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+label{
+    text-shadow: 0 0 4px #771100;
+    font-weight: 700;
+    font-family: Quicksand, cursive;
+    margin-bottom: 2px;
+    color: #a18d8d;
+}
+
+.input-user{
+    margin-bottom: 10px;
+    height: 15px;
+    padding: 8px;
+}
+
+.input-password{
+    height: 15px;
+    margin-bottom: 15px;
+    padding: 8px;
+}
+button{
+    background-color: #771100;
+    border: none;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    border-radius: 4px;
+    height: 40px;
+    color: #e2dddd;
+    font-weight: 600;
+    font-family: Quicksand;
+}
+button:hover{
+    background-color: #550011;
+    font-size: 14px;
+}
+
+button:focus{
+    background-color: #a30808;
+}

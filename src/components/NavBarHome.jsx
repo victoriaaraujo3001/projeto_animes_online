@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 
 import "../styles/styleNavBar.css";
 
-export default function NavbarHome() {
+export default function NavBarHome() {
   return (
     <nav className="nav-bar">
       <div className="side">

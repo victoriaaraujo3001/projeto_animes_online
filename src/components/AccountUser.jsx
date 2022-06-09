@@ -30,7 +30,7 @@ export function AccountUser({ list }) {
             );
           })}
         </div> */}
-        <button type="submit">Enviar</button>
+        <button type="submit" className="button-form">Enviar</button>
       </form>
     </div>
     </>

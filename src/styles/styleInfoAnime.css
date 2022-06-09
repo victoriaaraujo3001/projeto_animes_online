@@ -1,0 +1,65 @@
+.theme-anime {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.img-theme-anime {
+    opacity: 0.4;
+    border-radius: 5px;
+    width: 650px;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+}
+
+.info-card {
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 650px;
+}
+
+.info-anime-card {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins';
+    font-size: 0.5em;
+    color: #646464;
+    text-shadow: 0 1px #500d01;
+}
+
+.sinopse-anime{
+    margin-bottom: 5px;
+}
+.info-sinopse{
+    color: #919191;
+    text-shadow: 0.5px 1px #500d01; 
+}
+.list-eps{
+    margin-top: 15px;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 650px;
+    gap: 2px;
+}
+.info-eps-card {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins';
+    font-size: 0.5em;
+    color: #646464;
+    text-shadow: 0 1px #500d01;
+    margin-bottom: 12px;
+}
+.play{
+    width: 20px;
+}
+.episodios-anime{
+    margin-top: 18px;
+}
+
+hr {
+	border-width: 0; 
+	height: 1px;
+	border-top-width: 1px;
+    color: #919191;
+}

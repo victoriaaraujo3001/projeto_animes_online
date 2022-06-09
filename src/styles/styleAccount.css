@@ -37,7 +37,7 @@ label{
     margin-bottom: 15px;
     padding: 8px;
 }
-button{
+.button-form{
     background-color: #771100;
     border: none;
     width: 100px;
@@ -51,11 +51,11 @@ button{
     font-weight: 600;
     font-family: Quicksand;
 }
-button:hover{
+.button-form:hover{
     background-color: #550011;
     font-size: 14px;
 }
 
-button:focus{
+.button-form:focus{
     background-color: #a30808;
 }

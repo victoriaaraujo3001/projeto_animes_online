@@ -167,48 +167,347 @@
       "qtdEps": "Em lançamento os",
       "dataLancamento": "04/11/2020",
       "imgCapa": "https://i0.wp.com/i.pinimg.com/originals/47/b6/c8/47b6c8f6a9e2d65df9972441c0ac9449.jpg",
-      "imgSinopse": "https://infinitasvidas.files.wordpress.com/2019/03/fullmetal-alchemist-brotherhood-5.png",
+      "imgSinopse": "https://i2.wp.com/www.jbox.com.br/wp/wp-content/uploads/2015/10/onepunchman-destacada.jpg?fit=774%2C489&quality=99&strip=all&ssl=1",
       "genero":"Ação, Comédia",
       "episodios": [
         {
           "numEp": 1,
           "nomeEp": "Episodio 1",
-          "descricao": "Fullmetal Alchemist"
+          "descricao": "Homem Mais Forte"
         },
         {
           "numEp": 2,
           "nomeEp": "Episodio 2",
-          "descricao": "The First Day"
+          "descricao": "Ciborgue Solitário"
         },
         {
           "numEp": 3,
           "nomeEp": "Episodio 3",
-          "descricao": "City of Heresy"
+          "descricao": "Cientista Obsessivo"
         },
         {
           "numEp": 4,
           "nomeEp": "Episodio 4",
-          "descricao": "An Alchemist's Anguish"
+          "descricao": "Ninja Moderno"
         },
         {
           "numEp": 5,
           "nomeEp": "Episodio 5",
-          "descricao": "Ami Kawashima"
+          "descricao": "Mestre Definitivo"
         },
         {
           "numEp": 6,
           "nomeEp": "Episodio 6",
-          "descricao": "O Verdadeiro Eu"
+          "descricao": "Cidade Aterrorizante"
         },
         {
           "numEp": 7,
           "nomeEp": "Episodio 7",
-          "descricao": "Abertura da Piscina"
+          "descricao": "Discípulo Supremo"
         },
         {
           "numEp": 8,
           "nomeEp": "Episodio 8",
-          "descricao": "Por quem?"
+          "descricao": "Rei do Mar Profundo"
+        },
+        {
+          "numEp": 9,
+          "nomeEp": "Episodio 9",
+          "descricao": "Justiça Irredutível"
+        },
+        {
+          "numEp": 10,
+          "nomeEp": "Episodio 10",
+          "descricao": "Perigo Sem Igual"
+        },
+        {
+          "numEp": 11,
+          "nomeEp": "Episodio 11",
+          "descricao": "Dominador do Universo"
+        }
+      ]
+    }, {
+      "id": 5,
+      "assistido": true,
+      "nome": "Death Note",
+      "sinopse": "Um estudante de repente encontra um caderno que caiu do céu. Trata-se do Death Note, que permite ao seu portador matar qualquer pessoa a partir da mera anotação do nome do alvo em uma de suas páginas. Sob a influência de Ruyk, dono do caderno, ele passa a usá-lo para eliminar criminosos e pessoas que escaparam da justiça. A súbita onda de assassinatos faz com que ele seja endeusado por muitos, que o apelidam de Kira, mas também atrai a atenção de um enigmático e brilhante detetive, chamado L.",
+      "qtdEps": 37,
+      "dataLancamento": "31/08/2007",
+      "imgCapa": "https://upload.wikimedia.org/wikipedia/pt/c/c0/Death_Note_vol._01.jpg",
+      "imgSinopse": "https://oxentesensei.com.br/wp-content/uploads/2021/06/Death-Note-terminou-capa.jpg",
+      "genero":"Mistério, Suspense",
+      "episodios": [
+        {
+          "numEp": 1,
+          "nomeEp": "Episodio 1",
+          "descricao": "Renascimento"
+        },
+        {
+          "numEp": 2,
+          "nomeEp": "Episodio 2",
+          "descricao": "Confronto"
+        },
+        {
+          "numEp": 3,
+          "nomeEp": "Episodio 3",
+          "descricao": "Negociações"
+        },
+        {
+          "numEp": 4,
+          "nomeEp": "Episodio 4",
+          "descricao": "Perseguição"
+        },
+        {
+          "numEp": 5,
+          "nomeEp": "Episodio 5",
+          "descricao": "Táticas"
+        },
+        {
+          "numEp": 6,
+          "nomeEp": "Episodio 6",
+          "descricao": "Desenrolando"
+        },
+        {
+          "numEp": 7,
+          "nomeEp": "Episodio 7",
+          "descricao": "Encoberto"
+        },
+        {
+          "numEp": 8,
+          "nomeEp": "Episodio 8",
+          "descricao": "Ofuscação"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "assistido": true,
+      "nome": "Kimetsu no Yaiba",
+      "sinopse": "Tanjiro, um bondoso jovem que ganha a vida vendendo carvão descobre que sua família foi massacrada por um demônio. E, para piorar, Nezuko, sua irmã mais nova e única sobrevivente, também acabou transformada em um demônio.",
+      "qtdEps": "1 filme e 26",
+      "dataLancamento": "06/04/2019",
+      "imgCapa": "https://i.pinimg.com/736x/e4/bd/9e/e4bd9e5d511c47503c2caecc0f8e0148.jpg",
+      "imgSinopse": "https://i0.wp.com/www.nerdtrip.com.br/wp-content/uploads/2020/10/kimetsunoyaiba.jpg?resize=560%2C337&ssl=1",
+      "genero": "Ficção, Artes Marciais",
+      "episodios": [
+        {
+          "numEp": 1,
+          "nomeEp": "Episodio 1",
+          "descricao": "Cruelty"
+        },
+        {
+          "numEp": 2,
+          "nomeEp": "Episodio 2",
+          "descricao": "Trainer Sakonji Urokodaki"
+        },
+        {
+          "numEp": 3,
+          "nomeEp": "Episodio 3",
+          "descricao": "Sabito and Makomo"
+        },
+        {
+          "numEp": 4,
+          "nomeEp": "Episodio 4",
+          "descricao": "Final Selection"
+        },
+        {
+          "numEp": 5,
+          "nomeEp": "Episodio 5",
+          "descricao": "My Own Steel"
+        },
+        {
+          "numEp": 6,
+          "nomeEp": "Episodio 6",
+          "descricao": "Swordsman Accompanying a Demon"
+        },
+        {
+          "numEp": 7,
+          "nomeEp": "Episodio 7",
+          "descricao": "Muzan Kibutsuji"
+        },
+        {
+          "numEp": 8,
+          "nomeEp": "Episodio 8",
+          "descricao": "The Smell of Enchanting Blood"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "assistido": true,
+      "nome": "Dr. Stone",
+      "sinopse": "Conta a história de Senku, um gênio, que renasce 3.700 anos depois que uma luz misteriosa petrifica toda a humanidade. Usando-se de conhecimento científico, ele tenta restaurar a humanidade.",
+      "qtdEps": 35,
+      "dataLancamento": "07/07/2017",
+      "imgCapa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9ESDUB35Esyxgm5uPsOUETpmxFDFzvnCYA6U6YMbfO-RSHdZ2wCyGPurQHEhQMLPnDA&usqp=CAU",
+      "imgSinopse": "https://www.globalgeek.com.br/wp-content/uploads/2019/06/dr-stone-anime-nova-imagem-data-estreia.jpg",
+      "genero":"Ficção científica",
+      "episodios": [
+        {
+          "numEp": 1,
+          "nomeEp": "Episodio 1",
+          "descricao": "Stone World"
+        },
+        {
+          "numEp": 2,
+          "nomeEp": "Episodio 2",
+          "descricao": "King of the Stone World"
+        },
+        {
+          "numEp": 3,
+          "nomeEp": "Episodio 3",
+          "descricao": "Weapons of Science"
+        },
+        {
+          "numEp": 4,
+          "nomeEp": "Episodio 4",
+          "descricao": "Fire the Smoke Signal"
+        },
+        {
+          "numEp": 5,
+          "nomeEp": "Episodio 5",
+          "descricao": "Stone World The Beginning"
+        },
+        {
+          "numEp": 6,
+          "nomeEp": "Episodio 6",
+          "descricao": 	"Two Nations of the Stone World"
+        },
+        {
+          "numEp": 7,
+          "nomeEp": "Episodio 7",
+          "descricao": "Where Two Million Years Have Gone"
+        },
+        {
+          "numEp": 8,
+          "nomeEp": "Episodio 8",
+          "descricao": "Stone Road"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "assistido": true,
+      "nome": "Tensei Shitara Slime Datta Ken",
+      "sinopse": "Depois de ser morto por um ladrão que fugia, um rapaz normal de 37 anos se encontra reencarnado em um outro mundo com slime cego com habilidades únicas.",
+      "qtdEps": "Em lançamento os",
+      "dataLancamento": "02/11/2018",
+      "imgCapa": "https://animesonehd.xyz/wp-content/uploads/2019/10/Tensei-shitara-Slime-Datta-Ken-animesonehd.jpg",
+      "imgSinopse": "https://i0.wp.com/otakusbrasil.com/wp-content/uploads/2021/12/that-time-i-got-reincarnated-as-a-slime-10.jpg?fit=800400&ssl=1",
+      "genero":"Fantasia",
+      "episodios": [
+        {
+          "numEp": 1,
+          "nomeEp": "Episodio 1",
+          "descricao": "The Storm Dragon, Veldora"
+        },
+        {
+          "numEp": 2,
+          "nomeEp": "Episodio 2",
+          "descricao": "Meeting the Goblins"
+        },
+        {
+          "numEp": 3,
+          "nomeEp": "Episodio 3",
+          "descricao": 	"Battle at the Goblin Village"
+        },
+        {
+          "numEp": 4,
+          "nomeEp": "Episodio 4",
+          "descricao": "In the Kingdom of the Dwarves"
+        },
+        {
+          "numEp": 5,
+          "nomeEp": "Episodio 5",
+          "descricao": "Hero King, Gazel Dwargo"
+        },
+        {
+          "numEp": 6,
+          "nomeEp": "Episodio 6",
+          "descricao": "Shizu"
+        },
+        {
+          "numEp": 7,
+          "nomeEp": "Episodio 7",
+          "descricao": 	"Conqueror of Flames"
+        },
+        {
+          "numEp": 8,
+          "nomeEp": "Episodio 8",
+          "descricao": 	"Inherited Will"
+        },
+        {
+          "numEp": 9,
+          "nomeEp": "Episodio 9",
+          "descricao": "Attack of the Ogres"
+        },
+        {
+          "numEp": 10,
+          "nomeEp": "Episodio 10",
+          "descricao": "The Orc Lord"
+        },
+        {
+          "numEp": 11,
+          "nomeEp": "Episodio 11",
+          "descricao": "Gabiru Is Here!"
+        }
+      ]
+    }
+  ],
+  "generos":[
+    {
+      "id": 1,
+      "nomeGenero": "Ação",
+      "animes":[
+        {
+          "idAnime": 1,
+          "nome": "Noragami",
+          "imgAnime":""
+        },
+        {
+          "idAnime": 2,
+          "nome": "Fairy Tail",
+          "imgAnime":""
+        },
+        {
+          "idAnime": 3,
+          "nome": "Assassination Classroom",
+          "imgAnime":""
+        }, {
+          "idAnime": 4,
+          "nome": "Bleach",
+          "imgAnime":""
+        }, {
+          "idAnime": 5,
+          "nome": "The Seven Deadly Sins",
+          "imgAnime":""
+        }, {
+          "idAnime": 6,
+          "nome": "Tokyo Ghoul",
+          "imgAnime":""
+        },
+        {
+          "idAnime": 7,
+          "nome": "Hunter x Hunter",
+          "imgAnime":""
+        },
+        {
+          "idAnime": 8,
+          "nome": "My Hero Academy",
+          "imgAnime":""
+        },
+        {
+          "idAnime": 7,
+          "nome": "Jujutsu Kaisen",
+          "imgAnime":""
+        }, {
+          "idAnime": 7,
+          "nome": " Hunter x Hunter",
+          "imgAnime":""
+        }, {
+          "idAnime": 7,
+          "nome": " Hunter x Hunter",
+          "imgAnime":""
         }
       ]
     }

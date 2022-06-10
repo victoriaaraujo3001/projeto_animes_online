@@ -1,47 +1,4 @@
-const  arrayAnimesAssistindo = [
-    {
-      url: "https://upload.wikimedia.org/wikipedia/pt/thumb/1/12/Noragami_volume_1_cover.jpg/220px-Noragami_volume_1_cover.jpg",
 
-      nome: "Noragami",
-      id:"noragami"
-    },
-    {
-      url: "https://i0.wp.com/i.pinimg.com/originals/47/b6/c8/47b6c8f6a9e2d65df9972441c0ac9449.jpg",
-
-      nome: "One Puch Man",
-    },
-    {
-      url: "https://www.anitube.site/wp-content/uploads/Toradora-poster.jpg",
-      nome: "Toradora",
-      id: "Toradora",
-    },
-    {
-      url: "https://animesonehd.xyz/wp-content/uploads/2020/06/Fullmetal-Alchemist-Brotherhood-online-em-hd-animesonehd.jpg",
-
-      nome: "Fullmetal Alchemist Brotherhood",
-    },
-    {
-      url: "https://animesonehd.xyz/wp-content/uploads/2019/10/Tensei-shitara-Slime-Datta-Ken-animesonehd.jpg",
-      nome: "Tensei Shitara Slime Datta Ken",
-    },
-    {
-      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9ESDUB35Esyxgm5uPsOUETpmxFDFzvnCYA6U6YMbfO-RSHdZ2wCyGPurQHEhQMLPnDA&usqp=CAU",
-
-      nome: "Dr. Stone",
-    },
-    {
-      url: "https://i.pinimg.com/736x/e4/bd/9e/e4bd9e5d511c47503c2caecc0f8e0148.jpg",
-
-      nome: "Kimetsu no Yaiba",
-    },
-    {
-      url: "https://wikiimg.tojsiabtv.com/wikipedia/en/7/72/Bleachanime.png",
-      nome: "Bleach",
-    },
-    {
-      url: "https://img.assinaja.com/assets/tZ/004/img/158581_520x520.jpg",
-      nome: "The Promise Neverland",
-    },
     {
       url: "https://upload.wikimedia.org/wikipedia/pt/c/c0/Death_Note_vol._01.jpg",
       nome: "Death Note",

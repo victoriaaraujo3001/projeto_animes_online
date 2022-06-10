@@ -5,8 +5,8 @@ import Slider from "react-slick";
 import { api } from "../services/api";
 import "../styles/styleSection.css";
 import { redirectLink } from "./Link";
-export function Section() {
 
+export function Section() {
   const [listAnimes, setListAnimes] = useState([]);
   const [listAnimesVistos, setListAnimesVistos] = useState([]);
 
@@ -17,12 +17,13 @@ export function Section() {
     //   "🚀 ~ file: Section.jsx ~ line 19 ~ consultaAnimes ~ insert",
     //   insert
     // );
-    setListAnimes(animes.data.filter((anime)=> !anime.assistido));
+    setListAnimes(animes.data.filter((anime) => !anime.assistido));
     setListAnimesVistos(animes.data.filter((anime) => anime.assistido));
   }
   useEffect(() => {
     consultaAnimes();
   }, []);
+
   const settings = {
     infinite: false,
     slidesToShow: 7,
@@ -56,7 +57,7 @@ export function Section() {
                 );
               })
             ) : (
-              <h1>Aguarde...</h1>
+              <span className="error">Aguarde...</span>
             )}
           </Slider>
         </div>
@@ -65,14 +66,18 @@ export function Section() {
         <p className="title">Assistidos</p>
         <div>
           <Slider {...settings}>
-            {listAnimes.length ?(listAnimes.map((anime, index) => {
-              return (
-                <div className="list-animes" key={index}>
-                  <img src={anime.img} className="anime" />
-                  <h5 className="subtitle">{anime.nome}</h5>
-                </div>
-              );
-            })): <span className="error">CARREGANDO...</span>}
+            {listAnimes.length ? (
+              listAnimes.map((anime, index) => {
+                return (
+                  <div className="list-animes" key={index}>
+                    <img src={anime.img} className="anime" />
+                    <h5 className="subtitle">{anime.nome}</h5>
+                  </div>
+                );
+              })
+            ) : (
+              <span className="error">CARREGANDO...</span>
+            )}
           </Slider>
         </div>
       </section>

@@ -1,0 +1,216 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "assistido": true,
+      "nome": "Noragami",
+      "sinopse": "A história começa por Yato, um deus menor cujo sonho é ter milhões de seguidores. Infelizmente, seu sonho está longe de se tornar realidade, visto que sequer tem um santuário dedicado ao seu nome e se encontra sem nenhum Instrumento Divino, depois que seu último se demitiu após 3 meses de parceria.",
+      "qtdEps": 14,
+      "dataLancamento": "06/12/2010",
+      "imgCapa": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/12/Noragami_volume_1_cover.jpg/220px-Noragami_volume_1_cover.jpg",
+      "imgSinopse": "https://heatom.com/wp-content/uploads/2020/12/noragami.jpg",
+      "genero":"Ação",
+      "episodios": [
+        {
+          "numEp": 1,
+          "nomeEp": "Episodio 1",
+          "descricao": "A Housecat, a Stray God, and a Tail"
+        },
+        {
+          "numEp": 2,
+          "nomeEp": "Episodio 2",
+          "descricao": "Snow-like"
+        },
+        {
+          "numEp": 3,
+          "nomeEp": "Episodio 3",
+          "descricao": "Bidden Calamity"
+        },
+        {
+          "numEp": 4,
+          "nomeEp": "Episodio 4",
+          "descricao": "Where Happiness Lies"
+        },
+        {
+          "numEp": 5,
+          "nomeEp": "Episodio 5",
+          "descricao": "Borderline"
+        },
+        {
+          "numEp": 6,
+          "nomeEp": "Episodio 6",
+          "descricao": "Scary Person"
+        },
+        {
+          "numEp": 7,
+          "nomeEp": "Episodio 7",
+          "descricao": "Uncertainty, Destiny"
+        },
+        {
+          "numEp": 8,
+          "nomeEp": "Episodio 8",
+          "descricao": "Over the Line"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "assistido": true,
+      "nome": "Toradora",
+      "sinopse": "Um anime de comédia romântica em que acompanhamos Taiga e Ryuji em suas aventuras n a tentativa de conquistarem as pessoas que amam. Taiga tem uma queda por Kitamura, e apesar de querer muito não consegue se declarar. Já Ryuji é apaixonado por Minori, mas não tem coragem de se aproximar mais dela.",
+      "qtdEps": 25,
+      "dataLancamento": "01/10/2008",
+      "imgCapa": "https://www.anitube.site/wp-content/uploads/Toradora-poster.jpg",
+      "imgSinopse": "https://vocesabianime.com/wp-content/uploads/2022/02/Ryuuji-e-Taiga-Transaram-segundo-Descoberto-em-Revista-voce-sabia-anime.jpg",
+      "genero": "Comedia, Romance",
+      "episodios": [
+        {
+          "numEp": 1,
+          "nomeEp": "Episodio 1",
+          "descricao": "O Tigre e o Dragão"
+        },
+        {
+          "numEp": 2,
+          "nomeEp": "Episodio 2",
+          "descricao": "Ryūji e Taiga"
+        },
+        {
+          "numEp": 3,
+          "nomeEp": "Episodio 3",
+          "descricao": "Sua Canção"
+        },
+        {
+          "numEp": 4,
+          "nomeEp": "Episodio 4",
+          "descricao": "A Expressão Daquele Momento"
+        },
+        {
+          "numEp": 5,
+          "nomeEp": "Episodio 5",
+          "descricao": "Ami Kawashima"
+        },
+        {
+          "numEp": 6,
+          "nomeEp": "Episodio 6",
+          "descricao": "O Verdadeiro Eu"
+        },
+        {
+          "numEp": 7,
+          "nomeEp": "Episodio 7",
+          "descricao": "Abertura da Piscina"
+        },
+        {
+          "numEp": 8,
+          "nomeEp": "Episodio 8",
+          "descricao": "Por quem?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "assistido": true,
+      "nome": "Fullmetal Alchemist Brotherhood",
+      "sinopse": "Depois de perderem sua mãe, Alphonse e Edward Elric tentam trazê-la de volta usando uma técnica de alquimia proíbida. Contudo, o princípio básico da alquimia é a 'troca equivalente', e tentar ressucitar alguém custa muito alto. Ed perde sua perna, e Al perde seu corpo.",
+      "qtdEps": 51,
+      "dataLancamento": "05/04/2009",
+      "imgCapa": "https://animesonehd.xyz/wp-content/uploads/2020/06/Fullmetal-Alchemist-Brotherhood-online-em-hd-animesonehd.jpg",
+      "imgSinopse": "https://infinitasvidas.files.wordpress.com/2019/03/fullmetal-alchemist-brotherhood-5.png",
+      "genero":"Ficção, Aventura",
+      "episodios": [
+        {
+          "numEp": 1,
+          "nomeEp": "Episodio 1",
+          "descricao": "Fullmetal Alchemist"
+        },
+        {
+          "numEp": 2,
+          "nomeEp": "Episodio 2",
+          "descricao": "The First Day"
+        },
+        {
+          "numEp": 3,
+          "nomeEp": "Episodio 3",
+          "descricao": "City of Heresy"
+        },
+        {
+          "numEp": 4,
+          "nomeEp": "Episodio 4",
+          "descricao": "An Alchemist's Anguish"
+        },
+        {
+          "numEp": 5,
+          "nomeEp": "Episodio 5",
+          "descricao": "Ami Kawashima"
+        },
+        {
+          "numEp": 6,
+          "nomeEp": "Episodio 6",
+          "descricao": "O Verdadeiro Eu"
+        },
+        {
+          "numEp": 7,
+          "nomeEp": "Episodio 7",
+          "descricao": "Abertura da Piscina"
+        },
+        {
+          "numEp": 8,
+          "nomeEp": "Episodio 8",
+          "descricao": "Por quem?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "assistido": true,
+      "nome": "One Puch Man",
+      "sinopse": "Conta a história de Saitama, um super-herói extremamente poderoso, que se entediou com a ausência dos desafios nas suas lutas contra o mal e procura encontrar um oponente digno.",
+      "qtdEps": "Em lançamento os",
+      "dataLancamento": "04/11/2020",
+      "imgCapa": "https://i0.wp.com/i.pinimg.com/originals/47/b6/c8/47b6c8f6a9e2d65df9972441c0ac9449.jpg",
+      "imgSinopse": "https://infinitasvidas.files.wordpress.com/2019/03/fullmetal-alchemist-brotherhood-5.png",
+      "genero":"Ação, Comédia",
+      "episodios": [
+        {
+          "numEp": 1,
+          "nomeEp": "Episodio 1",
+          "descricao": "Fullmetal Alchemist"
+        },
+        {
+          "numEp": 2,
+          "nomeEp": "Episodio 2",
+          "descricao": "The First Day"
+        },
+        {
+          "numEp": 3,
+          "nomeEp": "Episodio 3",
+          "descricao": "City of Heresy"
+        },
+        {
+          "numEp": 4,
+          "nomeEp": "Episodio 4",
+          "descricao": "An Alchemist's Anguish"
+        },
+        {
+          "numEp": 5,
+          "nomeEp": "Episodio 5",
+          "descricao": "Ami Kawashima"
+        },
+        {
+          "numEp": 6,
+          "nomeEp": "Episodio 6",
+          "descricao": "O Verdadeiro Eu"
+        },
+        {
+          "numEp": 7,
+          "nomeEp": "Episodio 7",
+          "descricao": "Abertura da Piscina"
+        },
+        {
+          "numEp": 8,
+          "nomeEp": "Episodio 8",
+          "descricao": "Por quem?"
+        }
+      ]
+    }
+  ]
+}

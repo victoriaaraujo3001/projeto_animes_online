@@ -1,7 +1,6 @@
 import logo from "../assets/logoAnime.png";
 import favorites from "../assets/favorites.png";
 import account from "../assets/account.png";
-import search from "../assets/search.png";
 import { redirectLink } from "../components/Link";
 
 import { Link } from "react-router-dom";

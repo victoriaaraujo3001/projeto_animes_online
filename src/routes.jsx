@@ -9,7 +9,7 @@ import { SinopseScreen } from "./screens/Sinopse";
 export function Routes() {
   return (
     <Switch>
-      <Route path="/infoAnime">
+      <Route path="/infoAnime/:id">
         <NavBar />
         <SinopseScreen/>
       </Route>

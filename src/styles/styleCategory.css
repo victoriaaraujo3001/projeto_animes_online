@@ -1,0 +1,41 @@
+.list-animes{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5%;
+    justify-content: space-evenly;
+}
+.img-section{
+    width: 160px;
+    height: 230px;
+    background-size: cover;
+    opacity: 0.8;
+    border-radius: 5px;
+    box-shadow: 8px 7px 5px #000;
+    margin: 5% 0;
+}
+
+.title-genero{
+    width: 99%;
+    text-decoration: none;
+    border-bottom: 2px solid #919191;
+    padding-bottom: 2px;
+    font-size: 1.6rem;
+    font-family: "Paytone One", sans-serif;
+    text-shadow: 1px 2px #500d01;
+    color: #a18d8d;
+    padding-left: 2px;
+    margin-top: 30px;
+    text-indent: 10px;
+}
+.nome-anime{
+    font-family: Quicksand;
+    font-size: 12px;
+    color: #a18d8d;
+    text-align: center;
+    height: 45px;
+    width: 120px;
+    border-radius: 3px;
+    margin: auto;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}

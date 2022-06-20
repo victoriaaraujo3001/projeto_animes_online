@@ -33,7 +33,7 @@ export function InfoAnime({ anime }) {
                   Episodio <span className="info-eps"> {item.numEp} - </span>
                   <span className="info-eps">{item.descricao}</span>
                 </h1>
-                <hr />
+                <hr/>
               </div>
             </>
           );

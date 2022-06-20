@@ -1,6 +1,7 @@
 import logo from "../assets/logoAnime.png";
 import favorites from "../assets/favorites.png";
 import account from "../assets/account.png";
+import categories from "../assets/categorias.png";
 import { redirectLink } from "../components/Link";
 
 import { Link } from "react-router-dom";
@@ -15,19 +16,26 @@ export default function NavBarHome() {
         <h6 className="title-page">animes online</h6>
       </div>
       <div className="config">
-        {/* <input
-          type="search"
-          className="search-input"
-          placeholder="one piece..."
-        /> 
-        <Link to="/favorites">
-          <img src={search} alt="search"/>
-        </Link>*/}
-        <Link onClick={() => redirectLink("/favorites")}>
-          <img src={favorites} alt="favorites" />
+        <Link
+          onClick={() => redirectLink("/categories")}
+          style={{ textDecoration: "none" }}
+        >
+          <img src={categories} alt="categorias" />
+          <span className="title-config">categorias</span>
         </Link>
-        <Link onClick={() => redirectLink("/account")}>
+        <Link
+          onClick={() => redirectLink("/favorites")}
+          style={{ textDecoration: "none" }}
+        >
+          <img src={favorites} alt="favorites" />
+          <span className="title-config">favoritos</span>
+        </Link>
+        <Link
+          onClick={() => redirectLink("/account")}
+          style={{ textDecoration: "none" }}
+        >
           <img src={account} alt="account" />
+          <span className="title-config">conta</span>
         </Link>
       </div>
     </nav>

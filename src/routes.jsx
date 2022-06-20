@@ -5,13 +5,18 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { FavoriteScreeen } from "./screens/Favorites";
 import { AccountScreen } from "./screens/Account";
 import { SinopseScreen } from "./screens/Sinopse";
+import { Category } from "./components/Category";
 
 export function Routes() {
   return (
     <Switch>
+      <Route path="/categories">
+        <NavBar />
+        <Category />
+      </Route>
       <Route path="/infoAnime/:id">
         <NavBar />
-        <SinopseScreen/>
+        <SinopseScreen />
       </Route>
       <Route path="/favorites">
         <NavBar />

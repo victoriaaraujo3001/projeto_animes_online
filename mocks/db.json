@@ -9,7 +9,7 @@
       "dataLancamento": "06/12/2010",
       "imgCapa": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/12/Noragami_volume_1_cover.jpg/220px-Noragami_volume_1_cover.jpg",
       "imgSinopse": "https://heatom.com/wp-content/uploads/2020/12/noragami.jpg",
-      "genero":"Ação",
+      "genero": "Ação",
       "episodios": [
         {
           "numEp": 1,
@@ -115,7 +115,7 @@
       "dataLancamento": "05/04/2009",
       "imgCapa": "https://animesonehd.xyz/wp-content/uploads/2020/06/Fullmetal-Alchemist-Brotherhood-online-em-hd-animesonehd.jpg",
       "imgSinopse": "https://infinitasvidas.files.wordpress.com/2019/03/fullmetal-alchemist-brotherhood-5.png",
-      "genero":"Ficção, Aventura",
+      "genero": "Ficção, Aventura",
       "episodios": [
         {
           "numEp": 1,
@@ -168,7 +168,7 @@
       "dataLancamento": "04/11/2020",
       "imgCapa": "https://i0.wp.com/i.pinimg.com/originals/47/b6/c8/47b6c8f6a9e2d65df9972441c0ac9449.jpg",
       "imgSinopse": "https://i2.wp.com/www.jbox.com.br/wp/wp-content/uploads/2015/10/onepunchman-destacada.jpg?fit=774%2C489&quality=99&strip=all&ssl=1",
-      "genero":"Ação, Comédia",
+      "genero": "Ação, Comédia",
       "episodios": [
         {
           "numEp": 1,
@@ -226,7 +226,8 @@
           "descricao": "Dominador do Universo"
         }
       ]
-    }, {
+    },
+    {
       "id": 5,
       "assistido": true,
       "nome": "Death Note",
@@ -235,7 +236,7 @@
       "dataLancamento": "31/08/2007",
       "imgCapa": "https://upload.wikimedia.org/wikipedia/pt/c/c0/Death_Note_vol._01.jpg",
       "imgSinopse": "https://oxentesensei.com.br/wp-content/uploads/2021/06/Death-Note-terminou-capa.jpg",
-      "genero":"Mistério, Suspense",
+      "genero": "Mistério, Suspense",
       "episodios": [
         {
           "numEp": 1,
@@ -341,7 +342,7 @@
       "dataLancamento": "07/07/2017",
       "imgCapa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9ESDUB35Esyxgm5uPsOUETpmxFDFzvnCYA6U6YMbfO-RSHdZ2wCyGPurQHEhQMLPnDA&usqp=CAU",
       "imgSinopse": "https://www.globalgeek.com.br/wp-content/uploads/2019/06/dr-stone-anime-nova-imagem-data-estreia.jpg",
-      "genero":"Ficção científica",
+      "genero": "Ficção científica",
       "episodios": [
         {
           "numEp": 1,
@@ -371,7 +372,7 @@
         {
           "numEp": 6,
           "nomeEp": "Episodio 6",
-          "descricao": 	"Two Nations of the Stone World"
+          "descricao": "Two Nations of the Stone World"
         },
         {
           "numEp": 7,
@@ -394,7 +395,7 @@
       "dataLancamento": "02/11/2018",
       "imgCapa": "https://animesonehd.xyz/wp-content/uploads/2019/10/Tensei-shitara-Slime-Datta-Ken-animesonehd.jpg",
       "imgSinopse": "https://i0.wp.com/otakusbrasil.com/wp-content/uploads/2021/12/that-time-i-got-reincarnated-as-a-slime-10.jpg?fit=800400&ssl=1",
-      "genero":"Fantasia",
+      "genero": "Fantasia",
       "episodios": [
         {
           "numEp": 1,
@@ -409,7 +410,7 @@
         {
           "numEp": 3,
           "nomeEp": "Episodio 3",
-          "descricao": 	"Battle at the Goblin Village"
+          "descricao": "Battle at the Goblin Village"
         },
         {
           "numEp": 4,
@@ -429,12 +430,12 @@
         {
           "numEp": 7,
           "nomeEp": "Episodio 7",
-          "descricao": 	"Conqueror of Flames"
+          "descricao": "Conqueror of Flames"
         },
         {
           "numEp": 8,
           "nomeEp": "Episodio 8",
-          "descricao": 	"Inherited Will"
+          "descricao": "Inherited Will"
         },
         {
           "numEp": 9,
@@ -454,60 +455,268 @@
       ]
     }
   ],
-  "generos":[
+  "categorias": [
     {
       "id": 1,
       "nomeGenero": "Ação",
-      "animes":[
+      "animes": [
         {
           "idAnime": 1,
           "nome": "Noragami",
-          "imgAnime":""
+          "imgAnime": "https://img.assinaja.com/assets/tZ/004/img/374834_520x520.jpg"
         },
         {
           "idAnime": 2,
           "nome": "Fairy Tail",
-          "imgAnime":""
+          "imgAnime": "https://www.jbchost.com.br/editorajbc/wp-content/uploads/2018/03/FairyTail-63-Capa_p.jpg"
         },
         {
           "idAnime": 3,
           "nome": "Assassination Classroom",
-          "imgAnime":""
-        }, {
+          "imgAnime": "https://m.media-amazon.com/images/I/61EVZRP9NLL._AC_.jpg"
+        },
+        {
           "idAnime": 4,
           "nome": "Bleach",
-          "imgAnime":""
-        }, {
+          "imgAnime": "https://images.justwatch.com/poster/260844361/s718/bleach.%7Bformat%7D"
+        },
+        {
           "idAnime": 5,
           "nome": "The Seven Deadly Sins",
-          "imgAnime":""
-        }, {
+          "imgAnime": "https://hedwig-cf.netmarble.com/forum-common/nanagb/7ds_en/thumbnail/5d899f12501844cdb78c659c9cc9c8e4_1584849104759_d.jpg"
+        },
+        {
           "idAnime": 6,
           "nome": "Tokyo Ghoul",
-          "imgAnime":""
+          "imgAnime": "https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UY1200_CR109,0,630,1200_AL_.jp"
         },
         {
           "idAnime": 7,
           "nome": "Hunter x Hunter",
-          "imgAnime":""
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/cbb55a6382682bf71e91f685c6473c5a1487736090_full.jpg"
         },
         {
           "idAnime": 8,
           "nome": "My Hero Academy",
-          "imgAnime":""
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire4/406916ead6c45d4ceb9eb7c4d018da611626348574_full.jpg"
+        },
+        {
+          "idAnime": 9,
+          "nome": "Jujutsu Kaisen",
+          "imgAnime": "https://esquadraonerds.com/wp-content/uploads/2021/04/jujutsu1.jpg"
+        },
+        {
+          "idAnime": 10,
+          "nome": "Black Butler",
+          "imgAnime": "https://musicart.xboxlive.com/7/fce05000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+        },
+        {
+          "idAnime": 11,
+          "nome": "Castlevania",
+          "imgAnime": "https://sm.ign.com/ign_br/screenshot/default/castlev_dxby.jpg"
+        },
+        {
+          "idAnime": 11,
+          "nome": "Tokyo Revengers",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire4/81ba04142373eed44f7e0c2f278b17361626143500_full.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nomeGenero": "Aventura",
+      "animes": [
+        {
+          "idAnime": 1,
+          "nome": "Re:Zero Kara Hajimeru Isekai Seikatsu",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/pt/d/dd/Re_Zero_poster.jpg"
+        },
+        {
+          "idAnime": 2,
+          "nome": "Black Clover",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire1/c0d08a06dae2ed2877cd15e303df87491533959656_full.jpg"
+        },
+        {
+          "idAnime": 3,
+          "nome": "Made In Abyss",
+          "imgAnime": "https://br.web.img3.acsta.net/pictures/17/11/06/21/43/3310359.jpg"
+        },
+        {
+          "idAnime": 4,
+          "nome": "Fate",
+          "imgAnime": "https://wikiimg.tojsiabtv.com/wikipedia/en/d/d4/Fate-stay_night.jpg"
+        },
+        {
+          "idAnime": 5,
+          "nome": "Tensei shitara Slime Datta Ken",
+          "imgAnime": "https://cdn.fstatic.com/media/movies/covers/2019/12/tWJRkoAMGTLLT8q8IIahJWpvb1n_Ov6ZjP6.jpg"
+        },
+        {
+          "idAnime": 6,
+          "nome": "Isekai Shokudō",
+          "imgAnime": "https://cdn.myanimelist.net/images/anime/3/86666.jpg"
         },
         {
           "idAnime": 7,
-          "nome": "Jujutsu Kaisen",
-          "imgAnime":""
-        }, {
+          "nome": "KonoSuba: God’s Blessing On This Wonderful World!",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/7ba81b1709a87f5ca8930229b10029a61484092235_full.jpg"
+        },
+        {
+          "idAnime": 8,
+          "nome": "Tate no yuusha",
+          "imgAnime": "https://www.baka-tsuki.org/project/images/3/3e/Tate_no_Yuusha_no_Nariagari_Volume_1_Cover.png"
+        },
+        {
+          "idAnime": 9,
+          "nome": "InuYasha",
+          "imgAnime": "https://m.media-amazon.com/images/I/91vIFa5wMkL._AC_SX522_.jpg"
+        },
+        {
+          "idAnime": 10,
+          "nome": "Overlord",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Overlord_poster.jpg"
+        },
+        {
+          "idAnime": 11,
+          "nome": "Akame ga kill",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/4fe71ff4ce4cf1b0d13b814d42ba51bc1404629753_full.jpg"
+        },
+        {
+          "idAnime": 11,
+          "nome": "Yamada-kun and the Seven Witches",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/f5a1c70df13361b1ffcab4f01f3628f41428603548_full.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nomeGenero": "Comédia",
+      "animes": [
+        {
+          "idAnime": 1,
+          "nome": "Hinamatsuri",
+          "imgAnime": "https://images-na.ssl-images-amazon.com/images/I/81jxpyBNYsL.jpg"
+        },
+        {
+          "idAnime": 2,
+          "nome": "Gin no Saji",
+          "imgAnime": "https://cdn.myanimelist.net/images/anime/6/49237.jpg"
+        },
+        {
+          "idAnime": 3,
+          "nome": "Nichijou",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/pt/thumb/7/76/Nichijou.jpg/250px-Nichijou.jpg"
+        },
+        {
+          "idAnime": 4,
+          "nome": "Daily Lives of High School Boys",
+          "imgAnime": "https://i.pinimg.com/originals/e0/49/cd/e049cdad5dc373bb1cf8613ea3a71038.jpg"
+        },
+        {
+          "idAnime": 5,
+          "nome": "Sayonara, Zetsubou-Sensei",
+          "imgAnime": "https://cdn.myanimelist.net/images/anime/5/6559.jpg"
+        },
+        {
+          "idAnime": 6,
+          "nome": "Gekkan Shojo Nozaki-kun",
+          "imgAnime": "https://br.web.img3.acsta.net/pictures/21/12/29/15/24/3241060.jpg"
+        },
+        {
           "idAnime": 7,
-          "nome": " Hunter x Hunter",
-          "imgAnime":""
-        }, {
+          "nome": "Arakawa Under the Bridge",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire2/c046cff9d38e384acac5dbd3f705e9561359490136_full.jpg"
+        },
+        {
+          "idAnime": 8,
+          "nome": "Saiki Kusuo no Psi-nan",
+          "imgAnime": "https://animefire.net/img/animes/saiki-kusuo-no--nan-large.webp?v=1"
+        },
+        {
+          "idAnime": 9,
+          "nome": "King’s Game",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/en/5/58/%C5%8Csama_Game_The_Animation.png"
+        },
+        {
+          "idAnime": 10,
+          "nome": "Hell Girl",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Jigoku_Sh%C5%8Djo.png/250px-Jigoku_Sh%C5%8Djo.png"
+        },
+        {
+          "idAnime": 11,
+          "nome": "From the New World",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/b4befa6e58687a64462a3511062bbfe11348858764_full.jpg"
+        },
+        {
+          "idAnime": 11,
+          "nome": "Ghost Hunt",
+          "imgAnime": "https://animefire.net/img/animes/ghost-hunt-large.webp?v=1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nomeGenero": "Suspense",
+      "animes": [
+        {
+          "idAnime": 1,
+          "nome": "Hinamatsuri",
+          "imgAnime": "https://images-na.ssl-images-amazon.com/images/I/81jxpyBNYsL.jpg"
+        },
+        {
+          "idAnime": 2,
+          "nome": "The Promised Neverland",
+          "imgAnime": "https://img.assinaja.com/assets/tZ/004/img/177190_520x520.jpg"
+        },
+        {
+          "idAnime": 3,
+          "nome": "Mirai Nikki",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/pt/1/1a/Mirainikkicover1.jpg"
+        },
+        {
+          "idAnime": 4,
+          "nome": "Shadows House",
+          "imgAnime": "https://www.listadeanimes.com/wp-content/uploads/2021/04/shadows-house-assistir.jpg"
+        },
+        {
+          "idAnime": 5,
+          "nome": "Boku Dake ga Inai Mach ",
+          "imgAnime": "https://www.anitube.site/wp-content/uploads/Boku-Dake-ga-Inai-Machi.jpg"
+        },
+        {
+          "idAnime": 6,
+          "nome": "Psycho-Pass",
+          "imgAnime": "https://www.nivelepico.com/wp-content/uploads/2020/08/psycho-pass-01.jpg"
+        },
+        {
           "idAnime": 7,
-          "nome": " Hunter x Hunter",
-          "imgAnime":""
+          "nome": "Parasyte",
+          "imgAnime": "https://m.media-amazon.com/images/I/71mhz6bfM9L._AC_SY445_.jpg"
+        },
+        {
+          "idAnime": 8,
+          "nome": "Gakkougurashi",
+          "imgAnime": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg"
+        },
+        {
+          "idAnime": 9,
+          "nome": "King’s Game",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/en/5/58/%C5%8Csama_Game_The_Animation.png"
+        },
+        {
+          "idAnime": 10,
+          "nome": "Hell Girl",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Jigoku_Sh%C5%8Djo.png/250px-Jigoku_Sh%C5%8Djo.png"
+        },
+        {
+          "idAnime": 11,
+          "nome": "From the New World",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/b4befa6e58687a64462a3511062bbfe11348858764_full.jpg"
+        },
+        {
+          "idAnime": 11,
+          "nome": "Ghost Hunt",
+          "imgAnime": "https://animefire.net/img/animes/ghost-hunt-large.webp?v=1"
         }
       ]
     }

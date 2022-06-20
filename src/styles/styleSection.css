@@ -46,16 +46,6 @@
   border-radius: 5px;
   box-shadow: 8px 7px 5px #000;
 }
-
-/* .cardAnime {
-  display: flex;
-  padding: 0 !important;
-  margin: 0 !important;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-}  */
-
 .subtitle {
   font-family: Quicksand;
   font-size: 12px;

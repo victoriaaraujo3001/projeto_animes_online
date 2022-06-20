@@ -2,7 +2,7 @@ import { NavBar } from "./components/NavBar";
 import { Section } from "./components/Section";
 import NavBarHome from "./components/NavBarHome";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import { FavoriteScreeen } from "./screens/Favorites";
+import { FavoritesScreen } from "./screens/Favorites";
 import { AccountScreen } from "./screens/Account";
 import { SinopseScreen } from "./screens/Sinopse";
 import { Category } from "./components/Category";
@@ -20,7 +20,7 @@ export function Routes() {
       </Route>
       <Route path="/favorites">
         <NavBar />
-        <FavoriteScreeen />
+        <FavoritesScreen />
       </Route>
       <Route path="/account">
         <NavBar />

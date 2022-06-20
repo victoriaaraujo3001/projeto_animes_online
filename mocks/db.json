@@ -3,6 +3,7 @@
     {
       "id": 1,
       "assistido": true,
+      "favorito": true,
       "nome": "Noragami",
       "sinopse": "A história começa por Yato, um deus menor cujo sonho é ter milhões de seguidores. Infelizmente, seu sonho está longe de se tornar realidade, visto que sequer tem um santuário dedicado ao seu nome e se encontra sem nenhum Instrumento Divino, depois que seu último se demitiu após 3 meses de parceria.",
       "qtdEps": 14,
@@ -56,6 +57,7 @@
     {
       "id": 2,
       "assistido": true,
+      "favorito": true,
       "nome": "Toradora",
       "sinopse": "Um anime de comédia romântica em que acompanhamos Taiga e Ryuji em suas aventuras n a tentativa de conquistarem as pessoas que amam. Taiga tem uma queda por Kitamura, e apesar de querer muito não consegue se declarar. Já Ryuji é apaixonado por Minori, mas não tem coragem de se aproximar mais dela.",
       "qtdEps": 25,
@@ -109,6 +111,7 @@
     {
       "id": 3,
       "assistido": true,
+      "favorito":true,
       "nome": "Fullmetal Alchemist Brotherhood",
       "sinopse": "Depois de perderem sua mãe, Alphonse e Edward Elric tentam trazê-la de volta usando uma técnica de alquimia proíbida. Contudo, o princípio básico da alquimia é a 'troca equivalente', e tentar ressucitar alguém custa muito alto. Ed perde sua perna, e Al perde seu corpo.",
       "qtdEps": 51,
@@ -162,6 +165,7 @@
     {
       "id": 4,
       "assistido": true,
+      "favorito": false,
       "nome": "One Puch Man",
       "sinopse": "Conta a história de Saitama, um super-herói extremamente poderoso, que se entediou com a ausência dos desafios nas suas lutas contra o mal e procura encontrar um oponente digno.",
       "qtdEps": "Em lançamento os",
@@ -230,6 +234,7 @@
     {
       "id": 5,
       "assistido": true,
+      "favorito": false,
       "nome": "Death Note",
       "sinopse": "Um estudante de repente encontra um caderno que caiu do céu. Trata-se do Death Note, que permite ao seu portador matar qualquer pessoa a partir da mera anotação do nome do alvo em uma de suas páginas. Sob a influência de Ruyk, dono do caderno, ele passa a usá-lo para eliminar criminosos e pessoas que escaparam da justiça. A súbita onda de assassinatos faz com que ele seja endeusado por muitos, que o apelidam de Kira, mas também atrai a atenção de um enigmático e brilhante detetive, chamado L.",
       "qtdEps": 37,
@@ -283,6 +288,7 @@
     {
       "id": 6,
       "assistido": true,
+      "favorito": false,
       "nome": "Kimetsu no Yaiba",
       "sinopse": "Tanjiro, um bondoso jovem que ganha a vida vendendo carvão descobre que sua família foi massacrada por um demônio. E, para piorar, Nezuko, sua irmã mais nova e única sobrevivente, também acabou transformada em um demônio.",
       "qtdEps": "1 filme e 26",
@@ -336,6 +342,7 @@
     {
       "id": 7,
       "assistido": true,
+      "favorito": false,
       "nome": "Dr. Stone",
       "sinopse": "Conta a história de Senku, um gênio, que renasce 3.700 anos depois que uma luz misteriosa petrifica toda a humanidade. Usando-se de conhecimento científico, ele tenta restaurar a humanidade.",
       "qtdEps": 35,

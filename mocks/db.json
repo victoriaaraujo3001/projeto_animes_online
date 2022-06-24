@@ -111,7 +111,7 @@
     {
       "id": 3,
       "assistido": true,
-      "favorito":true,
+      "favorito": true,
       "nome": "Fullmetal Alchemist Brotherhood",
       "sinopse": "Depois de perderem sua mãe, Alphonse e Edward Elric tentam trazê-la de volta usando uma técnica de alquimia proíbida. Contudo, o princípio básico da alquimia é a 'troca equivalente', e tentar ressucitar alguém custa muito alto. Ed perde sua perna, e Al perde seu corpo.",
       "qtdEps": 51,
@@ -469,46 +469,62 @@
       "animes": [
         {
           "idAnime": 1,
+          "favorito": false,
           "nome": "Noragami",
           "imgAnime": "https://img.assinaja.com/assets/tZ/004/img/374834_520x520.jpg"
         },
         {
           "idAnime": 2,
+          "favorito": false,
+
           "nome": "Fairy Tail",
           "imgAnime": "https://www.jbchost.com.br/editorajbc/wp-content/uploads/2018/03/FairyTail-63-Capa_p.jpg"
         },
         {
           "idAnime": 3,
+          "favorito": false,
+
           "nome": "Assassination Classroom",
           "imgAnime": "https://m.media-amazon.com/images/I/61EVZRP9NLL._AC_.jpg"
         },
         {
           "idAnime": 4,
+          "favorito": false,
+
           "nome": "Bleach",
           "imgAnime": "https://images.justwatch.com/poster/260844361/s718/bleach.%7Bformat%7D"
         },
         {
           "idAnime": 5,
+          "favorito": false,
+
           "nome": "The Seven Deadly Sins",
           "imgAnime": "https://hedwig-cf.netmarble.com/forum-common/nanagb/7ds_en/thumbnail/5d899f12501844cdb78c659c9cc9c8e4_1584849104759_d.jpg"
         },
         {
           "idAnime": 6,
+          "favorito": false,
+
           "nome": "Tokyo Ghoul",
           "imgAnime": "https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UY1200_CR109,0,630,1200_AL_.jp"
         },
         {
           "idAnime": 7,
+          "favorito": false,
+
           "nome": "Hunter x Hunter",
           "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/cbb55a6382682bf71e91f685c6473c5a1487736090_full.jpg"
         },
         {
           "idAnime": 8,
+          "favorito": false,
+
           "nome": "My Hero Academy",
           "imgAnime": "https://img1.ak.crunchyroll.com/i/spire4/406916ead6c45d4ceb9eb7c4d018da611626348574_full.jpg"
         },
         {
           "idAnime": 9,
+          "favorito": false,
           "nome": "Jujutsu Kaisen",
           "imgAnime": "https://esquadraonerds.com/wp-content/uploads/2021/04/jujutsu1.jpg"
         },
@@ -531,6 +547,7 @@
     },
     {
       "id": 2,
+      "favorito": false,
       "nomeGenero": "Aventura",
       "animes": [
         {
@@ -601,6 +618,7 @@
       "animes": [
         {
           "idAnime": 1,
+          "favorito": false,
           "nome": "Hinamatsuri",
           "imgAnime": "https://images-na.ssl-images-amazon.com/images/I/81jxpyBNYsL.jpg"
         },
@@ -633,6 +651,72 @@
           "idAnime": 7,
           "nome": "Arakawa Under the Bridge",
           "imgAnime": "https://img1.ak.crunchyroll.com/i/spire2/c046cff9d38e384acac5dbd3f705e9561359490136_full.jpg"
+        },
+        {
+          "idAnime": 8,
+          "nome": "Saiki Kusuo no Psi-nan",
+          "imgAnime": "https://animefire.net/img/animes/saiki-kusuo-no--nan-large.webp?v=1"
+        },
+        {
+          "idAnime": 9,
+          "nome": "King’s Game",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/en/5/58/%C5%8Csama_Game_The_Animation.png"
+        },
+        {
+          "idAnime": 10,
+          "nome": "Hell Girl",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Jigoku_Sh%C5%8Djo.png/250px-Jigoku_Sh%C5%8Djo.png"
+        },
+        {
+          "idAnime": 11,
+          "nome": "From the New World",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/b4befa6e58687a64462a3511062bbfe11348858764_full.jpg"
+        },
+        {
+          "idAnime": 11,
+          "nome": "Ghost Hunt",
+          "imgAnime": "https://animefire.net/img/animes/ghost-hunt-large.webp?v=1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nomeGenero": "Comédia Romântica",
+      "animes": [
+        {
+          "idAnime": 1,
+          "nome": "Lovely Complex",
+          "imgAnime": "https://img1.ak.crunchyroll.com/i/spire3/b62c3c6d70d38fa10904d76dc60d06761578969109_full.jpg"
+        },
+        {
+          "idAnime": 2,
+          "nome": "Special A",
+          "imgAnime": "http://1.bp.blogspot.com/_F5brFlM8EWE/SxUhJnALCJI/AAAAAAAAADw/Wlk9qXCWilk/s1600/%5Blarge%5D%5BAnimePaper%5Dscans_Special-A_setsuna11%280.7%29__THISRES__202034.jpg"
+        },
+        {
+          "idAnime": 3,
+          "nome": "Tonari no Kaibutsu-kun",
+          "imgAnime": "https://www.anitube.site/wp-content/uploads/Tonari-no-Kaibutsu-kun-poster.jpg"
+        },
+        {
+          "idAnime": 4,
+          "nome": "Oreimo",
+          "imgAnime": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Ore_no_imouto_novel_v1_cover.jpg"
+        },
+        {
+          "idAnime": 5,
+          "nome": "Nisekoi",
+          "imgAnime": "https://animesbr.biz/wp-content/uploads/2020/05/x15LnCbRgRlZFnq2kQdbW9tlheZ.jpg"
+        },
+        {
+          "idAnime": 6,
+          "nome": "Oregairu",
+          "imgAnime": "https://i.pinimg.com/originals/9f/63/54/9f63545732e50f3b8c36792204acd27b.jpg"
+        },
+        {
+          "idAnime": 7,
+          "nome": "Saenai Heroine no Sodatekata",
+          "imgAnime": "https://i.pinimg.com/474x/4e/33/04/4e3304ec3b519e2cdea9cf80a4bdc725.jpg"
         },
         {
           "idAnime": 8,
